@@ -1,5 +1,8 @@
 _repo: Kuvia-ja-kuvitelmia-Suomen-historiasta-I_56123
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -19,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/Juhani_Aho
     - http://fi.wikipedia.org/wiki/Juhani_Aho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56123#Kuvia-ja-kuvitelmia-Suomen-historiasta-I
 gutenberg_issued: '2017-12-04'
 gutenberg_type: Text
 identifiers:
